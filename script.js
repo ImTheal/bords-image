@@ -1,5 +1,5 @@
 // URL du webhook n8n
-const webhookUrl = 'https://n8n.tambour.in/webhook/7d013591-566f-41f1-bb17-bb8ae177a449'; // Remplacez par votre URL
+const webhookUrl = 'https://n8n.shizuku.fr/webhook/7d013591-566f-41f1-bb17-bb8ae177a449'; // Remplacez par votre URL
 document.getElementById("uploadForm").addEventListener("submit", async function(event) {
     event.preventDefault();
     
